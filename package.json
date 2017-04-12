@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo pages",
+  "main": "index.js",
+  "repository": "git@github.com:excaliburhan/demo.git",
+  "author": "xiaoping <edwardhjp@gmail.com>",
+  "license": "MIT"
+}
